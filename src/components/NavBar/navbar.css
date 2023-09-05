@@ -1,0 +1,21 @@
+.navbar {
+    flex-direction: revert;
+    display: flex;
+    justify-content: flex-start;
+    background-color: black;
+    color: white;
+    height: 4rem;
+
+
+}
+
+.lista {
+    display: flex;
+}
+
+.item {
+    width: 10rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
